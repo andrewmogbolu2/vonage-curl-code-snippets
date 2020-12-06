@@ -47,3 +47,4 @@ curl -X "POST" "https://api.nexmo.com/v2/applications" \
     "vbc": {}
   }
 }'
+}..
